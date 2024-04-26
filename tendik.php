@@ -139,63 +139,99 @@
 </div>
 
         <div class="row">
-          
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch filter-app" data-aos="fade-up" data-aos-delay="100">
+
+          <div class="col-lg-3 col-md-6 align-items-stretch filter-app" data-aos="fade-up" data-aos-delay="100">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/testimonial-1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/guru/dewimaryanasari.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>Walter White</h4>
-                <span>Chief Executive Officer</span>
+                <h4>Dewi Maryana Sari</h4>
+                <span></span>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch filter-app" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-lg-3 col-md-6 align-items-stretch filter-app" data-aos="fade-up" data-aos-delay="100">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img//testimonial-1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/guru/hettyfanuarsihspd.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Product Manager</span>
+                <h4>Hetty Fanuarsih, S.Pd.</h4>
+                <span></span>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch filter-card" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-lg-3 col-md-6 align-items-stretch filter-app" data-aos="fade-up" data-aos-delay="100">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/testimonial-1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/guru/ikawidiastutiskom.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
+                <h4>Ika Widiastuti, S.Kom.</h4>
+                <span></span>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch filter-card" data-aos="fade-up" data-aos-delay="400">
+          <div class="col-lg-3 col-md-6 align-items-stretch filter-app" data-aos="fade-up" data-aos-delay="100">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/testimonial-1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/guru/jeniali.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
+                <h4>Jeni Ali</h4>
+                <span></span>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch filter-card" data-aos="fade-up" data-aos-delay="400">
+          <div class="col-lg-3 col-md-6 align-items-stretch filter-app" data-aos="fade-up" data-aos-delay="100">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/testimonial-1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/guru/khusnulkhotimahspdi.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
+                <h4>Khusnul Khotimah, S.Pdi.</h4>
+                <span></span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 align-items-stretch filter-app" data-aos="fade-up" data-aos-delay="100">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/guru/muhammadjaelani.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>Muhammad Jaelani</h4>
+                <span></span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 align-items-stretch filter-app" data-aos="fade-up" data-aos-delay="100">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/guru/nanadiana.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>Nana Diana</h4>
+                <span></span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 align-items-stretch filter-app" data-aos="fade-up" data-aos-delay="100">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/guru/nurkiftiyahspd.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>Nur Kiftiyah, S.Pd.</h4>
+                <span></span>
               </div>
             </div>
           </div>
